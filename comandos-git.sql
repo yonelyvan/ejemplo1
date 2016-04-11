@@ -11,3 +11,8 @@ git push origin master
 
 --actulaizar ultimo commit
 git pull 
+
+
+
+
+--mas ocmandos
