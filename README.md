@@ -6,3 +6,4 @@
 
 
 #editado en navegador
+#nueva edicion desde ubuntu
