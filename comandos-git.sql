@@ -1,18 +1,13 @@
 git clone 'url'
+
+=====================================
+--envio
+git add .   -- git add filename.txt
 git commit -m "Commit message"
-
---	git add filename  	-- un solo archivo -- carpeta?
---	git add .
-
-git commit -m "Commit message"
-
---envio de cambios
-git push origin master
-
---actulaizar ultimo commit
-git pull 
-
-
-
-
+git push origin master 	--envio de cambios
+--------------------------------------
+git pull 	--actulaizar ultimo commit 
+====================================
 --mas ocmandos
+git config --global user.email "yonelyvan@gmail.com"
+git config --global user.name "yonelyvan"
